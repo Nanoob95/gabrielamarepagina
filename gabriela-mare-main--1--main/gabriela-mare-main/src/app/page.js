@@ -23,7 +23,7 @@ export default function Home() {
           <WhatsAppButton />
         </div>
 
-        <Header title={"Del Asto"} title2={"&"} title3={"Conesa"}  subtitle={"Hogares Patagónicos"} />
+        <Header title={"Del Alto"} title2={"&"} title3={"Conesa"}  subtitle={"Hogares Patagónicos"} />
 
         <div className="flex flex-col mt-10 md:flex-row items-center justify-center md:gap-10">
           <div className="flex md:hover:-translate-y-0 transition-all duration-200 justify-center mb-6 md:mb-0">
