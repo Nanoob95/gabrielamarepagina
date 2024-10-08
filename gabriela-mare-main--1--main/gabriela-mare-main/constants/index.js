@@ -1,0 +1,68 @@
+export const imagesConesa = [
+  { id: 1, src: require("@/assets/img/Casa Conesa/conesa9_resultado.webp"), title: "Baño Completo Conesa", desc: "Baño" },
+  { id: 2, src: require("@/assets/img/Casa Conesa/conesa2_resultado.webp"), title: "Baño Completo Conesa 2" },
+  { id: 3, src: require("@/assets/img/Casa Conesa/conesa3_resultado.webp"), title: "Baño Completo Conesa 3", desc: "Baño" },
+  { id: 4, src: require("@/assets/img/Casa Conesa/conesa4_resultado.webp"), title: "Baño Completo Conesa 4", desc: "Baño" },
+  { id: 5, src: require("@/assets/img/Casa Conesa/conesa5_resultado.webp"), title: "Cocina Completa Conesa", desc: "Cocina" },
+  { id: 6, src: require("@/assets/img/Casa Conesa/conesa6_resultado.webp"), title: "Cocina Completa Conesa 2", desc: "Cocina" },
+  { id: 7, src: require("@/assets/img/Casa Conesa/conesa7_resultado.webp"), title: "Cocina Completa Conesa 3", desc: "Cocina" },
+  { id: 8, src: require("@/assets/img/Casa Conesa/conesa8_resultado.webp"), title: "Cocina Completa Conesa 4", desc: "Cocina" },
+  { id: 9, src: require("@/assets/img/Casa Conesa/conesa1_resultado.webp"), title: "Cocina Completa Conesa 5", desc: "Cocina" },
+  { id: 10, src: require("@/assets/img/Casa Conesa/conesa10_resultado.webp"), title: "Cocina Completa Conesa 6", desc: "Cocina" },
+  { id: 11, src: require("@/assets/img/Casa Conesa/conesa11_resultado.webp"), title: "Cocina Completa Conesa 7", desc: "Cocina" },
+  { id: 12, src: require("@/assets/img/Casa Conesa/conesa12_resultado.webp"), title: "Comedor Conesa", desc: "Comedor" },
+  { id: 13, src: require("@/assets/img/Casa Conesa/conesa13_resultado.webp"), title: "Comedor Conesa 2", desc: "Comedor" },
+  { id: 14, src: require("@/assets/img/Casa Conesa/conesa14_resultado.webp"), title: "Comedor Conesa 3", desc: "Comedor" },
+  { id: 15, src: require("@/assets/img/Casa Conesa/conesa15_resultado.webp"), title: "Dormitorio 1 Conesa", desc: "Dormitorio 1" },
+  { id: 16, src: require("@/assets/img/Casa Conesa/conesa16_resultado.webp"), title: "Dormitorio 1 Conesa 2", desc: "Dormitorio 1" },
+  { id: 17, src: require("@/assets/img/Casa Conesa/conesa17_resultado.webp"), title: "Dormitorio 2 Conesa", desc: "Dormitorio 2" },
+  { id: 18, src: require("@/assets/img/Casa Conesa/conesa18_resultado.webp"), title: "Dormitorio 2 Conesa 2", desc: "Dormitorio 2" },
+  { id: 19, src: require("@/assets/img/Casa Conesa/conesa19_resultado.webp"), title: "Dormitorio 2 Conesa 3", desc: "Dormitorio 2" },
+  { id: 20, src: require("@/assets/img/Casa Conesa/conesa20_resultado.webp"), title: "Dormitorio 2 Conesa 6", desc: "Dormitorio 2" },
+  { id: 21, src: require("@/assets/img/Casa Conesa/conesa21_resultado.webp"), title: "Dormitorio 2 Conesa 7", desc: "Dormitorio 2" },
+  { id: 22, src: require("@/assets/img/Casa Conesa/conesa22_resultado.webp"), title: "Dormitorio 3 Conesa", desc: "Dormitorio 3" },
+  { id: 23, src: require("@/assets/img/Casa Conesa/conesa23_resultado.webp"), title: "Dormitorio 3 Conesa 3", desc: "Dormitorio 3" },
+  { id: 24, src: require("@/assets/img/Casa Conesa/conesa24_resultado.webp"), title: "Dormitorio 3 Conesa 4", desc: "Dormitorio 3" },
+  { id: 25, src: require("@/assets/img/Casa Conesa/conesa25_resultado.webp"), title: "Exterior Conesa", desc: "Exterior" },
+  { id: 26, src: require("@/assets/img/Casa Conesa/conesa26_resultado.webp"), title: "Exterior Conesa", desc: "Exterior" },
+  { id: 27, src: require("@/assets/img/Casa Conesa/conesa27_resultado.webp"), title: "Exterior Conesa", desc: "Exterior" },
+  { id: 28, src: require("@/assets/img/Casa Conesa/conesa28_resultado.webp"), title: "Exterior Conesa", desc: "Exterior" },  
+  { id: 29, src: require("@/assets/img/Casa Conesa/conesa29_resultado.webp"), title: "Exterior Conesa", desc: "Exterior" },
+  { id: 30, src: require("@/assets/img/Casa Conesa/conesa30_resultado.webp"), title: "Exterior Conesa", desc: "Exterior" },
+  
+];
+
+
+
+
+
+  export const imagesDelAlto = [
+    { id: 1, src: require("@/assets/img/Casa Alto/CasaAlto21_resultado.webp"), title: "Baño Completo Conesa", desc: "Baño" },
+    { id: 2, src: require("@/assets/img/Casa Alto/CasaAlto2_resultado.webp"), title: "Baño Completo Conesa 2" },
+    { id: 3, src: require("@/assets/img/Casa Alto/CasaAlto3_resultado.webp"), title: "Baño Completo Conesa 3", desc: "Baño" },
+    { id: 4, src: require("@/assets/img/Casa Alto/CasaAlto4_resultado.webp"), title: "Baño Completo Conesa 4", desc: "Baño" },
+    { id: 5, src: require("@/assets/img/Casa Alto/CasaAlto5_resultado.webp"), title: "Baño Completo Conesa 5", desc: "Baño" },
+    { id: 6, src: require("@/assets/img/Casa Alto/CasaAlto6_resultado.webp"), title: "Cocina Completa Conesa", desc: "Cocina" },
+    { id: 7, src: require("@/assets/img/Casa Alto/CasaAlto7_resultado.webp"), title: "Cocina Completa Conesa 2", desc: "Cocina" },
+    { id: 8, src: require("@/assets/img/Casa Alto/CasaAlto8_resultado.webp"), title: "Cocina Completa Conesa 3", desc: "Cocina" },
+    { id: 9, src: require("@/assets/img/Casa Alto/CasaAlto9_resultado.webp"), title: "Cocina Completa Conesa 4", desc: "Cocina" },
+    { id: 10, src: require("@/assets/img/Casa Alto/CasaAlto10_resultado.webp"), title: "Cocina Completa Conesa 5", desc: "Cocina" },
+    { id: 11, src: require("@/assets/img/Casa Alto/CasaAlto11_resultado.webp"), title: "Cocina Completa Conesa 6", desc: "Cocina" },
+    { id: 12, src: require("@/assets/img/Casa Alto/CasaAlto12_resultado.webp"), title: "Cocina Completa Conesa 7", desc: "Cocina" },
+    { id: 13, src: require("@/assets/img/Casa Alto/CasaAlto13_resultado.webp"), title: "Comedor Conesa", desc: "Comedor" },
+    { id: 14, src: require("@/assets/img/Casa Alto/CasaAlto14_resultado.webp"), title: "Comedor Conesa 2", desc: "Comedor" },
+    // { id: 15, src: require("@/assets/img/Casa Alto/CasaAlto15_resultado.webp"), title: "Comedor Conesa 3", desc: "Comedor" },
+    // { id: 16, src: require("@/assets/img/Casa Alto/CasaAlto23_resultado.webp"), title: "Dormitorio 1 Conesa", desc: "Dormitorio 1" },
+    { id: 17, src: require("@/assets/img/Casa Alto/CasaAlto15_resultado.webp"), title: "Dormitorio 1 Conesa 2", desc: "Dormitorio 1" },
+    { id: 18, src: require("@/assets/img/Casa Alto/CasaAlto18_resultado.webp"), title: "Dormitorio 2 Conesa", desc: "Dormitorio 2" },
+    { id: 19, src: require("@/assets/img/Casa Alto/CasaAlto19_resultado.webp"), title: "Dormitorio 2 Conesa 2", desc: "Dormitorio 2" },
+    { id: 20, src: require("@/assets/img/Casa Alto/CasaAlto20_resultado.webp"), title: "Dormitorio 2 Conesa 3", desc: "Dormitorio 2" },
+    { id: 21, src: require("@/assets/img/Casa Alto/CasaAltoFrente_resultado.webp"), title: "Dormitorio 2 Conesa 6", desc: "Dormitorio 2" },
+    // { id: 22, src: require("@/assets/img/Casa Alto/CasaAlto22_resultado.webp"), title: "Dormitorio 2 Conesa 7", desc: "Dormitorio 2" },
+    { id: 23, src: require("@/assets/img/Casa Alto/CasaAlto16_resultado.webp"), title: "Dormitorio 3 Conesa", desc: "Dormitorio 3" },
+    { id: 24, src: require("@/assets/img/Casa Alto/CasaAlto24_resultado.webp"), title: "Dormitorio 3 Conesa 3", desc: "Dormitorio 3" },
+    { id: 25, src: require("@/assets/img/Casa Alto/CasaAlto_resultado.webp"), title: "Dormitorio 3 Conesa 4", desc: "Dormitorio 3" },
+    // { id: 26, src: require("@/assets/img/Casa Alto/CasaAltoFrente2_resultado.webp"), title: "Exterior Conesa", desc: "Exterior" },
+    
+  ];
+  

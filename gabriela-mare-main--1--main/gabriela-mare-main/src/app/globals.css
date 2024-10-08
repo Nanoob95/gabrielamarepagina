@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input,
+textarea {
+  @apply bg-gray-100 rounded-lg px-2 py-1 focus:outline-blue-800;
+}
+
+form {
+  @apply flex flex-col gap-2;
+}
+
+label {
+  @apply flex flex-col font-normal;
+}
+
+li {
+  @apply  h-full flex items-center justify-center px-3;
+}
+
+li:hover {
+  @apply bg-blue-700  rounded-b-lg select-none cursor-pointer transition-all duration-300;
+}
